@@ -12,6 +12,8 @@ Her öğrenciye bir proje verilecek ve rastgele seçilerek e-posta gönderilmekt
 
 Hangi öğrenciye, hangi projenin atandığı projenizin çalıştığı klasöre atama_sonuclari.xlsx adıyla kaydedilir.
 
+![Atama Sonuclari Excel Dosyası ](https://github.com/oguzhantas/Csharp_ile_Excelden_Rastgele_Proje_Secip_Email_Gonderme/blob/main/atama_sonuclari_xlsx_dosyasi.png)
+
 ## Ayarlar
 
 MailKit kütüphanesini aşağıdaki komutla VS Studio Terminalden kurabilirsiniz.
