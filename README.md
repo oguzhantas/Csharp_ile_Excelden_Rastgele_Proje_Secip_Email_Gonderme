@@ -8,7 +8,19 @@ Her öğrenciye bir proje verilecek ve rastgele seçilerek e-posta gönderilmekt
 
 atama_sonuclari.xlsx dosyasında hangi öğrenciye hangi projenin atandığı görülmektedir.
 
+## Ayarlar
+
 MailKit kütüphanesini aşağıdaki komutla VS Studio Terminalden kurabilirsiniz.
 
 dotnet add package MailKit
 
+EmailSender.cs dosyasında aşağıdaki ayarları kendinize göre değiştiriniz.
+
+    private static readonly string SmtpHost    = "smtp.gmail.com";
+    
+    private static readonly int    SmtpPort    = 587;
+    
+    private static readonly string SenderEmail = "Gmail adresiniz";
+    
+    private static readonly string SenderPass  = "Şifreniz";
+    
