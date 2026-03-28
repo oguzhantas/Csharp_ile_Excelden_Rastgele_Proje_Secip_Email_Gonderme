@@ -10,7 +10,7 @@ Projeler listesi A1'de tek sütun olarak projeler.xlsx dosyasında olacaktır.
 
 Her öğrenciye bir proje verilecek ve rastgele seçilerek e-posta gönderilmektedir.
 
-atama_sonuclari.xlsx dosyasında hangi öğrenciye hangi projenin atandığı görülmektedir.
+Hangi öğrenciye, hangi projenin atandığı projenizin çalıştığı klasöre atama_sonuclari.xlsx adıyla kaydedilir.
 
 ## Ayarlar
 
