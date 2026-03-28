@@ -36,4 +36,9 @@ dotnet add package MailKit
     private static readonly string SenderEmail = "Gmail adresiniz";
     
     private static readonly string SenderPass  = "Şifreniz";
-    
+
+- Yine Visual Studio Code Terminal'den aşağıdaki komutu yazarak çalıştırınız.
+
+   dotnet run
+  
+  (https://github.com/oguzhantas/Csharp_ile_Excelden_Rastgele_Proje_Secip_Email_Gonderme/blob/main/gelen_email.png)
