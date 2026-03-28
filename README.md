@@ -2,6 +2,8 @@
 
 Öğrencilerin listesi ADI, SOYADI, EPOSTA olarak ogrenciler.xlsx dosyasında olacaktır.
 
+![Öğrenciler Excel Dosyası ](https://github.com/oguzhantas/Csharp_ile_Excelden_Rastgele_Proje_Secip_Email_Gonderme/blob/main/ogrenciler_xlsx_dosyasi.png)
+
 Projeler listesi A1'de tek sütun olarak projeler.xlsx dosyasında olacaktır.
 
 Her öğrenciye bir proje verilecek ve rastgele seçilerek e-posta gönderilmektedir.
