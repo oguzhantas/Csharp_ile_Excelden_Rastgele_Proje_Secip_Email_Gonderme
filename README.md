@@ -4,7 +4,7 @@
 
 ![Öğrenciler Excel Dosyası ](https://github.com/oguzhantas/Csharp_ile_Excelden_Rastgele_Proje_Secip_Email_Gonderme/blob/main/ogrenciler_xlsx_dosyasi.png)
 
-Projeler listesi A1'de tek sütun olarak projeler.xlsx dosyasında olacaktır.
+Projeler listesi A sütununda aşağıdaki gibi yazılıp projeler.xlsx dosyasında olacaktır.
 
 ![Projeler Excel Dosyası ](https://github.com/oguzhantas/Csharp_ile_Excelden_Rastgele_Proje_Secip_Email_Gonderme/blob/main/projeler_xlsx_dosyasi.png)
 
