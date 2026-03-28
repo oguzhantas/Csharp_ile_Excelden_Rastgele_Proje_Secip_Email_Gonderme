@@ -1,4 +1,4 @@
-## Toplu E-posta Gönderme
+## Projeleri rastgele seçerek öğrencilere Toplu E-posta Gönderme
 
 Öğrencilerin listesi ADI, SOYADI, EPOSTA olarak ogrenciler.xlsx dosyasında olacaktır.
 
