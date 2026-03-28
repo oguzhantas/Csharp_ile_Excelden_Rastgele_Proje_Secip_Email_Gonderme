@@ -15,12 +15,19 @@ Hangi öğrenciye, hangi projenin atandığı projenizin çalıştığı klasör
 ![Atama Sonuclari Excel Dosyası ](https://github.com/oguzhantas/Csharp_ile_Excelden_Rastgele_Proje_Secip_Email_Gonderme/blob/main/atama_sonuclari_xlsx_dosyasi.png)
 
 ## Ayarlar
+- Visual Studio Code'u aşağıdaki linkten indiriniz.
 
-MailKit kütüphanesini aşağıdaki komutla VS Studio Terminalden kurabilirsiniz.
+https://code.visualstudio.com/download
+
+- .NET Kütüphanesini aşağıdaki linkten indirip kurunuz.
+
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.25-windows-x64-installer?cid=getdotnetcore
+
+- Visual Studio Code'da Terminal-New Terminal komut verdikten sonra MailKit kütüphanesini aşağıdaki komutla kurabilirsiniz.
 
 dotnet add package MailKit
 
-EmailSender.cs dosyasında aşağıdaki ayarları kendinize göre değiştiriniz.
+- EmailSender.cs dosyasında aşağıdaki ayarları kendinize göre değiştiriniz.
 
     private static readonly string SmtpHost    = "smtp.gmail.com";
     
