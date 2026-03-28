@@ -27,6 +27,10 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-8.0.25-wind
 
 dotnet add package MailKit
 
+- EPPlus kütüphanesini de ekliyoruz.
+
+dotnet add package EPPlus
+
 - EmailSender.cs dosyasında aşağıdaki ayarları kendinize göre değiştiriniz.
 
     private static readonly string SmtpHost    = "smtp.gmail.com";
