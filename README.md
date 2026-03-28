@@ -41,6 +41,5 @@ dotnet add package MailKit
 
    dotnet run
 
-  ![Gelen E-mail ]
-  (https://github.com/oguzhantas/Csharp_ile_Excelden_Rastgele_Proje_Secip_Email_Gonderme/blob/main/gelen_email.png)
+![Gönderilen E-posta ](https://github.com/oguzhantas/Csharp_ile_Excelden_Rastgele_Proje_Secip_Email_Gonderme/blob/main/gelen_email.png)
   
